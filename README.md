@@ -63,7 +63,7 @@ This is a simple Bank Management System implemented in Java Swing, using MySQL a
 
 ## Installation
 1. Clone this repository to your local machine using `git clone https://github.com/Parikshit9112/Bank-management-system.git'.
-2. Set up the MySQL database by importing the `Bank` file provided in the `database` directory.
+2. Set up the MySQL database by importing the `bank.sql` file provided in the `database` directory.
 3. Update the database connection settings in the `DatabaseConnection.java` file to match your MySQL credentials.
 4. Compile and run the application using your favorite Java IDE.
 
