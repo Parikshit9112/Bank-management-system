@@ -31,7 +31,7 @@ This is a simple Bank Management System implemented in Java Swing, using MySQL a
 
   - Interface Collection :
 
-    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/d04af670-e5ed-4f45-81df-7a452fb27f58)
+   ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/bfa4bfd8-1ae0-47e8-9f14-6a964e0a2bb3)
 
 
     
