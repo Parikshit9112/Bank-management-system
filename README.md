@@ -12,6 +12,7 @@ This is a simple Bank Management System implemented in Java Swing, using MySQL a
 
 ## Screenshots 
 - Database Design
+  
   -Description  Of  Table:-  account
   
    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/2c11dba2-3d89-476a-a68c-cb3c22fe40cd)
@@ -19,7 +20,21 @@ This is a simple Bank Management System implemented in Java Swing, using MySQL a
   -Record already inserted in account table through INSERT command.   (5 account have already been created)
   
   ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/b933d200-8cd1-40ed-af5e-5e06c5eff110)
-  
+
+  -Description  Of  Table:-  transaction.(Contains no records)
+
+  ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/977e1ea6-ebc5-4d61-afee-7fdf995cb16f)
+
+  -Description  Of  Table:-  withdraw.(Contains no records)
+
+  ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/1098c64d-07cc-4f3c-b044-c49ac518725b)
+
+  - Interface Collection :
+
+    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/d04af670-e5ed-4f45-81df-7a452fb27f58)
+
+
+    
 
 
 
