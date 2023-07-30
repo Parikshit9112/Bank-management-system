@@ -29,9 +29,25 @@ This is a simple Bank Management System implemented in Java Swing, using MySQL a
 
   ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/1098c64d-07cc-4f3c-b044-c49ac518725b)
 
-  - Interface Collection :
+  - Interface  :
+ 
+    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/834b2589-b602-41d5-9dfe-f7415bbfbc00)
 
-   ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/bfa4bfd8-1ae0-47e8-9f14-6a964e0a2bb3)
+    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/f78aa9ca-2734-4016-94d5-1797b10415c6)
+
+    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/6af5ef8c-a376-41c8-89c2-eeb4793b07eb)
+
+    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/8ef739ce-ae23-44ae-b914-f9f944cc8428)            ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/d5cce413-d683-4b59-9120-c79c2fd5f9b1)
+
+    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/9c6a084b-5cec-4c82-80a3-1430d4f5b41b)
+
+
+
+
+
+
+
+     
 
 
     
