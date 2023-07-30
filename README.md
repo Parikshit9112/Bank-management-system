@@ -13,8 +13,11 @@ This is a simple Bank Management System implemented in Java Swing, using MySQL a
 ## Screenshots 
 - Database Design
   -Description  Of  Table:-  account
+  
    ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/2c11dba2-3d89-476a-a68c-cb3c22fe40cd)
+  
   -Record already inserted in account table through INSERT command.   (5 account have already been created)
+  
   ![image](https://github.com/Parikshit9112/Bank-management-system/assets/134605344/b933d200-8cd1-40ed-af5e-5e06c5eff110)
   
 
