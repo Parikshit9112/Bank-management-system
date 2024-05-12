@@ -71,7 +71,7 @@ This is a simple Bank Management System implemented in Java Swing, using MySQL a
 ## Contributing
 Contributions are welcome! If you find any bugs or want to add new features, please create a pull request. 
 ## License
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the terms of the Apache License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 Libraries : MySQL JDBC Driver
